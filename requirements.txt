@@ -1,0 +1,8 @@
+fastapi
+DateTime
+pandas
+numpy
+SQLAlchemy
+tensorflow
+keras
+
